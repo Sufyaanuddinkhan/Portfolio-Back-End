@@ -1,0 +1,30 @@
+[
+    {
+    "id": 1,
+    "title": "NextStop : Haramain",
+    "description": "NextStop: Haramain — A simple portal guiding pilgrims between Makkah and Madinah on the Haramain High-Speed Railway.",
+    "image": "/public/images/projects/nextstop.png",
+    "technologies": ["React", "Node.js", "Express", "MongoDB"],
+    "liveLink": "https://nextstop-haramain.netlify.app",
+    "githubLinkf": "https://github.com/Dev-Muzzamil/Nsh-FrontEnd.git",
+    "githubLinkb": "https://github.com/Dev-Muzzamil/Nsh-BackEnd.git"
+  },
+    {
+    "id": 2,    
+    "title": "My Portfolio",
+    "description": "A modern, fully responsive portfolio built using the MERN stack with smooth animations and a polished UI.",
+    "image": "/images/projects/portfolio.png",
+    "technologies": ["React", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
+    "liveLink": "https://your-portfolio.netlify.app",
+    "githubLink": "https://github.com/yourusername/portfolio"
+  },
+  {
+    "id": 3,    
+    "title": "Covid-19 Awareness",
+    "description": "A full-featured e-commerce platform with user authentication, product management, and a shopping cart.",
+    "image": "/images/projects/covida.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "liveLink": "https://sufyaanuddinkhan.github.io/Covid---19-Awarness/",
+    "githubLinkf": "https://github.com/Sufyaanuddinkhan/Covid---19-Awarness.git"
+  }
+]
