@@ -11,11 +11,9 @@ dotenv.config();
 const app = express();
 
 // Middleware
-app.use(cors(
-  {
-    origin: ["https://sufyaanuddinportfolio.netlify.app"],
-  }
-));
+app.use(cors({
+    origin: ["https://sufyaanuddinportfolio.netlify.app"]
+  }));
 app.use(express.json());
 
 // MongoDB connection
@@ -24,8 +22,8 @@ mongoose.connect(process.env.MONGO_URI)
 .catch((err) => console.error("MongoDB connection error:", err));
 
 // API routes
-app.use("/api/projects", projectRoutes);
-app.use("/api/contact", contactRoutes);
+app.use("/", projectRoutes);
+app.use("/", contactRoutes);
 
 app.get("/", (req, res) => {
   res.send("Portfolio API is running...");
