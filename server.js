@@ -22,8 +22,8 @@ mongoose.connect(process.env.MONGO_URI)
 .catch((err) => console.error("MongoDB connection error:", err));
 
 // API routes
-app.use("/", projectRoutes);
-app.use("/", contactRoutes);
+app.use("/api/projects", projectRoutes);
+app.use("/api/contact", contactRoutes);
 
 app.get("/", (req, res) => {
   res.send("Portfolio API is running...");
