@@ -3,7 +3,7 @@
     "id": 1,
     "title": "NextStop : Haramain",
     "description": "NextStop: Haramain — A simple portal guiding pilgrims between Makkah and Madinah on the Haramain High-Speed Railway.",
-    "image": "/public/images/projects/nextstop.PNG",
+    "image": "/public/images/projects/nextstop.png",
     "technologies": ["React", "Node.js", "Express", "MongoDB"],
     "liveLink": "https://nextstop-haramain.netlify.app",
     "githubLinkf": "https://github.com/Dev-Muzzamil/Nsh-FrontEnd.git",
