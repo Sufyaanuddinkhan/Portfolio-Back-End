@@ -13,7 +13,7 @@ const app = express();
 // Middleware
 app.use(cors(
   {
-    origin: "https://sufyaanuddinportfolio.netlify.app/",
+    origin: ["https://sufyaanuddinportfolio.netlify.app"],
   }
 ));
 app.use(express.json());
