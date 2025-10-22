@@ -11,7 +11,11 @@ dotenv.config();
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors(
+  {
+    origin: "https://sufyaanuddinportfolio.netlify.app/",
+  }
+));
 app.use(express.json());
 
 // MongoDB connection

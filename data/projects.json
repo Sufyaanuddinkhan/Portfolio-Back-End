@@ -15,8 +15,9 @@
     "description": "A modern, fully responsive portfolio built using the MERN stack with smooth animations and a polished UI.",
     "image": "/images/projects/portfolio.png",
     "technologies": ["React", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
-    "liveLink": "https://your-portfolio.netlify.app",
-    "githubLink": "https://github.com/yourusername/portfolio"
+    "liveLink": "https://sufyaanuddinportfolio.netlify.app/",
+    "githubLinkf": "https://github.com/Sufyaanuddinkhan/Portfolio-Front-End.git",
+    "githubLinkb": "https://github.com/Sufyaanuddinkhan/Portfolio-Back-End.git"
   },
   {
     "id": 3,    
