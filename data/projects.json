@@ -5,9 +5,7 @@
     "description": "NextStop: Haramain — A simple portal guiding pilgrims between Makkah and Madinah on the Haramain High-Speed Railway.",
     "image": "/public/images/projects/nextstop.png",
     "technologies": ["React", "Node.js", "Express", "MongoDB"],
-    "liveLink": "https://nextstop-haramain.netlify.app",
-    "githubLinkf": "https://github.com/Dev-Muzzamil/Nsh-FrontEnd.git",
-    "githubLinkb": "https://github.com/Dev-Muzzamil/Nsh-BackEnd.git"
+    "liveLink": "https://nextstop-haramain.netlify.app"
   },
     {
     "id": 2,    
@@ -15,9 +13,7 @@
     "description": "A modern, fully responsive portfolio built using the MERN stack with smooth animations and a polished UI.",
     "image": "/images/projects/portfolio.png",
     "technologies": ["React", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
-    "liveLink": "https://sufyaanuddinportfolio.netlify.app/",
-    "githubLinkf": "https://github.com/Sufyaanuddinkhan/Portfolio-Front-End.git",
-    "githubLinkb": "https://github.com/Sufyaanuddinkhan/Portfolio-Back-End.git"
+    "liveLink": "https://sufyaanuddinportfolio.netlify.app/"
   },
   {
     "id": 3,    
@@ -25,7 +21,14 @@
     "description": "A full-featured e-commerce platform with user authentication, product management, and a shopping cart.",
     "image": "/images/projects/covida.png",
     "technologies": ["HTML", "CSS", "JavaScript"],
-    "liveLink": "https://sufyaanuddinkhan.github.io/Covid---19-Awarness/",
-    "githubLinkf": "https://github.com/Sufyaanuddinkhan/Covid---19-Awarness.git"
+    "liveLink": "https://sufyaanuddinkhan.github.io/Covid---19-Awarness/"
+  },
+  {
+    "id": 4,
+    "title": "Masjid Directory",
+    "description": "A full-featured e-commerce platform with user authentication, product management, and a shopping cart.",
+    "image": "/images/projects/covida.png",
+    "technologies": ["Express", "React", "MongoDB"],
+    "liveLink": "https://sufyaanuddinkhan.github.io/Covid---19-Awarness/"
   }
 ]
